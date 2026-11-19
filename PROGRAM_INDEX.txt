@@ -1,0 +1,110 @@
+Day 01 | Q001 | Write a program to input two numbers and display their sum.
+Day 01 | Q002 | Write a program to input two numbers and display their sum, difference, product, and quotient.
+Day 02 | Q003 | Write a program to calculate the area and perimeter of a rectangle given its length and breadth.
+Day 02 | Q004 | Write a program to calculate the area and circumference of a circle given its radius.
+Day 03 | Q005 | Write a program to convert temperature from Celsius to Fahrenheit.
+Day 03 | Q006 | Write a program to swap two numbers using a third variable.
+Day 04 | Q007 | Write a program to swap two numbers without using a third variable.
+Day 04 | Q008 | Write a program to find and display the sum of the first n natural numbers.
+Day 05 | Q009 | Write a program to calculate simple and compound interest for given principal, rate, and time.
+Day 05 | Q010 | Write a program to input time in seconds and convert it to hours:minutes:seconds format.
+Day 06 | Q011 | Write a program to input an integer and check whether it is even or odd using if–else.
+Day 06 | Q012 | Write a program to input an integer and check whether it is positive, negative or zero using nested if–else.
+Day 07 | Q013 | Write a program to input a year and check whether it is a leap year or not using conditional statements.
+Day 07 | Q014 | Write a program to input a character and check whether it is a vowel or consonant using if–else.
+Day 08 | Q015 | Write a program to input a character and check whether it is an uppercase alphabet, lowercase alphabet, digit, or special character.
+Day 08 | Q016 | Write a program to input three numbers and find the largest among them using if–else.
+Day 09 | Q017 | Write a program to find the roots of a quadratic equation and categorize them.
+Day 09 | Q018 | Write a program that accepts a percentage (0-100) and assigns a grade based on criteria (90-100: A, 80-89: B, 70-79: C, 60-69: D, <60: F).
+Day 10 | Q019 | Write a program to classify a triangle as Equilateral, Isosceles, or Scalene based on its side lengths.
+Day 10 | Q020 | Write a program to display the day of the week based on a number (1–7) using switch-case.
+Day 11 | Q021 | Write a program to display the month name and number of days using switch-case for a given month number.
+Day 11 | Q022 | Write a program to find profit or loss percentage given cost price and selling price.
+Day 12 | Q023 | Write a program to calculate library fine based on late days (1-5: ₹2/day, 6-10: ₹4/day, 11-30: ₹6/day, >30: Cancelled).
+Day 12 | Q024 | Write a program to calculate electricity bill based on units (0-100: ₹5, 101-200: ₹7, 201-300: ₹10, >300: ₹12).
+Day 13 | Q025 | Write a program to implement a basic calculator using switch-case for +, -, *, /, %.
+Day 13 | Q026 | Write a program to print numbers from 1 to n.
+Day 14 | Q027 | Write a program to print the sum of the first n odd numbers.
+Day 14 | Q028 | Write a program to print the product of even numbers from 1 to n.
+Day 15 | Q029 | Write a program to calculate the factorial of a number.
+Day 15 | Q030 | Write a program to reverse a given number.
+Day 16 | Q031 | Write a program to take a number as input and print its equivalent binary representation.
+Day 16 | Q032 | Write a program to check if a number is a palindrome.
+Day 17 | Q033 | Write a program to check if a number is an Armstrong number.
+Day 17 | Q034 | Write a program to check if a number is prime.
+Day 18 | Q035 | Write a program to print all factors of a given number.
+Day 18 | Q036 | Write a program to find the HCF (GCD) of two numbers.
+Day 19 | Q037 | Write a program to find the LCM of two numbers.
+Day 19 | Q038 | Write a program to find the sum of digits of a number.
+Day 20 | Q039 | Write a program to find the product of odd digits of a number.
+Day 20 | Q040 | Write a program to find the 1’s complement of a binary number and print it.
+Day 21 | Q041 | Write a program to swap the first and last digit of a number.
+Day 21 | Q042 | Write a program to check if a number is a perfect number.
+Day 22 | Q043 | Write a program to check if a number is a strong number.
+Day 22 | Q044 | Write a program to find the sum of the series: 1 + 3/4 + 5/6 + 7/8 + … up to n terms.
+Day 23 | Q045 | Write a program to find the sum of the series: 2/3 + 4/7 + 6/11 + 8/15 + ... up to n terms.
+Day 23 | Q046 | Write a program to print a 5x5 star pattern.
+Day 24 | Q047 | Write a program to print a right-angled triangle star pattern.
+Day 24 | Q048 | Write a program to print a numeric right-angled triangle pattern.
+Day 25 | Q049 | Write a program to print a reverse numeric triangle pattern.
+Day 25 | Q050 | Write a program to print an inverted right-angled star pattern.
+Day 26 | Q051 | Write a program to print a right-aligned numeric triangle pattern.
+Day 26 | Q052 | Write a program to print an irregular star pattern (1, 3, 5, 3, 1 stars).
+Day 27 | Q053 | Write a program to print a diamond star pattern.
+Day 27 | Q054 | Write a program to print a pyramid star pattern.
+Day 28 | Q055 | Write a program to print all the prime numbers from 1 to n.
+Day 28 | Q056 | Read and print elements of a one-dimensional array.
+Day 29 | Q057 | Find the sum of array elements.
+Day 29 | Q058 | Find the maximum and minimum element in an array.
+Day 30 | Q059 | Count even and odd numbers in an array.
+Day 30 | Q060 | Count positive, negative, and zero elements in an array.
+Day 31 | Q061 | Search for an element in an array using linear search.
+Day 31 | Q062 | Reverse an array without taking extra space.
+Day 32 | Q063 | Merge two arrays.
+Day 32 | Q064 | Find the digit that occurs the most times in an integer number.
+Day 33 | Q065 | Search in a sorted array using binary search.
+Day 33 | Q066 | Insert an element in a sorted array at the appropriate position.
+Day 34 | Q067 | Insert an element in an array at a given position.
+Day 34 | Q068 | Delete an element from an array.
+Day 35 | Q069 | Find the second largest element in an array.
+Day 35 | Q070 | Rotate an array to the right by k positions.
+Day 36 | Q071 | Read and print a matrix.
+Day 36 | Q072 | Find the sum of all elements in a matrix.
+Day 37 | Q073 | Find the sum of each row of a matrix and store it in an array.
+Day 37 | Q074 | Find the transpose of a matrix.
+Day 38 | Q075 | Add two matrices.
+Day 38 | Q076 | Check if a matrix is symmetric.
+Day 39 | Q077 | Check if the elements on the diagonal of a matrix are distinct.
+Day 39 | Q078 | Find the sum of main diagonal elements for a square matrix.
+Day 40 | Q079 | Perform diagonal traversal of a matrix.
+Day 40 | Q080 | Multiply two matrices.
+Day 41 | Q081 | Count characters in a string without using built-in length functions.
+Day 41 | Q082 | Print each character of a string on a new line.
+Day 42 | Q083 | Count vowels and consonants in a string.
+Day 42 | Q084 | Convert a lowercase string to uppercase without using built-in functions.
+Day 43 | Q085 | Reverse a string.
+Day 43 | Q086 | Check if a string is a palindrome.
+Day 44 | Q087 | Count spaces, digits, and special characters in a string.
+Day 44 | Q088 | Replace spaces with hyphens in a string.
+Day 45 | Q089 | Count frequency of a given character in a string.
+Day 45 | Q090 | Toggle case of each character in a string.
+Day 46 | Q091 | Remove all vowels from a string.
+Day 46 | Q092 | Find the first repeating lowercase alphabet in a string.
+Day 47 | Q093 | Check if two strings are anagrams of each other.
+Day 47 | Q094 | Find the longest word in a sentence.
+Day 48 | Q095 | Check if one string is a rotation of another.
+Day 48 | Q096 | Reverse each word in a sentence without changing the word order.
+Day 49 | Q097 | Print the initials of a name.
+Day 49 | Q098 | Print initials of a name with the surname displayed in full.
+Day 50 | Q099 | Change the date format from dd/04/yyyy to dd-Apr-yyyy.
+Day 50 | Q100 | Print all sub-strings of a string.
+Day 51 | Q101 | Take a sorted array and target. Print the first and last occurrence index.
+Day 52 | Q102 | Find the index of the ceil of x in a sorted array.
+Day 53 | Q103 | Calculate the pivot index where left sum equals right sum.
+Day 54 | Q104 | Find pivot integer x for sum 1 to x = x to n.
+Day 55 | Q105 | Find the majority element (> n/2 occurrences).
+Day 56 | Q106 | Find the next greater element for each element using brute force.
+Day 57 | Q107 | Find the previous greater element for each element using brute force.
+Day 58 | Q108 | Product of array except self.
+Day 59 | Q109 | Maximum sum of subarray of size k.
+Day 60 | Q110 | Find the maximum element in each sliding window of size k.
